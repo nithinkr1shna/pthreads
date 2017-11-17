@@ -1,4 +1,4 @@
-### Pthreads:
+# Pthreads:
 
 This repository contains exercise programs on linux threads, pthreads. The aim of these exercise is to get a bigger picture on the working of threads. 
 
