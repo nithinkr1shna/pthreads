@@ -5,19 +5,19 @@ This repository contains exercise programs on pthreads. The aim of these exercis
 * #### prg1:
     This exercise problem creates two threads which runs indifinitely.
 
-* ### prg2:
+* #### prg2:
     This exercise shows how mutex_locks are used.
 
-* ### prg3:
+* #### prg3:
     This sample problem is to find out how semaphore works.
 
-* ### prg4:
+* #### prg4:
     Producer Consumer problem implemented using semaphores.
 
-* ### prg5:
+* #### prg5:
     Dining Philosophers problem with the help of mutex_locks.
 
-* ### semaphore:
+* #### semaphore:
     Problem which tries to implement teh concept of semaphore with mutexes and condition variables.
     
     
